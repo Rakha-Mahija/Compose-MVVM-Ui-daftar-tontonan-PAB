@@ -69,10 +69,11 @@ app/src/main/java/com/example/myfirstcomposeapp/
 Jika judul kosong, langkah 3 hanya mengisi `titleError = "Judul tidak boleh kosong."`, sehingga kolom judul menjadi merah.
 
 ## Screenshot
-
  |  Layar sempit (HP tegak) | 
+ 
 <img width="400" height="579" alt="image" src="https://github.com/user-attachments/assets/06343559-8bcb-4c7e-a6d3-7bee1dcb4a5a" />
 
 |Layar lebar (HP miring / tablet)|
+
   <img width="1169" height="518" alt="image" src="https://github.com/user-attachments/assets/388107a5-38ed-42ef-aaa7-c6c682da7097" />
  |
