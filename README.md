@@ -72,4 +72,7 @@ Jika judul kosong, langkah 3 hanya mengisi `titleError = "Judul tidak boleh koso
 
 | Layar sempit (HP tegak) | Layar lebar (HP miring / tablet) |
 | --- | --- |
-| !(image-1.png) | !(image.png) |
+| ![Uploading PHOTO-2026-10-28-22-10-11.jpg…]()
+<img width="400" height="579" alt="image" src="https://github.com/user-attachments/assets/06343559-8bcb-4c7e-a6d3-7bee1dcb4a5a" />
+ | <img width="1169" height="518" alt="image" src="https://github.com/user-attachments/assets/388107a5-38ed-42ef-aaa7-c6c682da7097" />
+ |
