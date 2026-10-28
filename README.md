@@ -1,18 +1,12 @@
-[README.md](https://github.com/user-attachments/files/34086115/README.md)
+[README.md](https://github.com/user-attachments/files/34086465/README.md)
 # Daftar Tontonan
 
 Aplikasi Android satu layar utama untuk mencatat film dan series yang ingin ditonton, beserta season dan episode yang sudah ditonton.
 Dibuat dengan Kotlin, Jetpack Compose, dan arsitektur MVVM.
 
-## Identitas
-
-| | |
-| --- | --- |
-| Nama | |
-| NIM | |
-| Kelas | |
-| Mata kuliah | |
-| Dosen | |
+## Nama Anggota
+- Mahija Ramadhan Prabaswarakha (24523103)
+- Harunsyah (24523103)
 
 ## Masalah
 
@@ -20,7 +14,7 @@ Rekomendasi film dan series dari teman sering tercecer di chat dan catatan. Untu
 
 ## Pengguna sasaran
 
-Mahasiswa dan siapa saja yang sering menonton film atau series dan ingin satu tempat sederhana untuk mencatatnya.
+siapa saja yang sering menonton film atau series dan ingin satu tempat sederhana untuk mencatatnya.
 
 ## Solusi
 
@@ -78,20 +72,4 @@ Jika judul kosong, langkah 3 hanya mengisi `titleError = "Judul tidak boleh koso
 
 | Layar sempit (HP tegak) | Layar lebar (HP miring / tablet) |
 | --- | --- |
-| ![Layar sempit]() | ![Layar lebar]() |
-
-## Slide presentasi (maksimal 5 halaman)
-
-| Halaman | Isi |
-| --- | --- |
-| 1 | |
-| 2 | |
-| 3 | |
-| 4 | |
-| 5 | |
-
-Link slide:
-
-## Catatan
-
--
+| !(image-1.png) | !(image.png) |
